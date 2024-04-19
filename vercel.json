@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/test2024", "dest": "/index.js" },
+    { "src": "/(.*)", "dest": "/index.js" }
+  ]
+}
+
